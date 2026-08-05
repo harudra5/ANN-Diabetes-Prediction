@@ -1,8 +1,12 @@
 # ANN Diabetes Prediction
 
-## Overview
+## Problem Statement
 
-This project predicts whether a patient is diabetic or non-diabetic using an Artificial Neural Network (ANN). The model is built with TensorFlow/Keras and trained on a diabetes dataset after preprocessing and feature engineering.
+Diabetes is one of the most common chronic diseases worldwide, and early diagnosis is essential to prevent serious health complications. Traditional diagnosis often depends on clinical tests and medical expertise, which may delay timely intervention. The objective of this project is to develop an Artificial Neural Network (ANN) model that accurately predicts whether an individual is diabetic or non-diabetic based on demographic and clinical features.
+
+## Business Problem
+
+Healthcare providers generate large volumes of patient data, but identifying individuals at high risk of diabetes can be time-consuming. An accurate prediction model can assist medical professionals by providing early risk assessments, enabling timely treatment, reducing healthcare costs, and improving patient outcomes. This project aims to build a reliable Deep Learning model that supports data-driven decision-making in diabetes risk prediction.
 
 ## Features
 
@@ -86,3 +90,13 @@ ANN-Diabetes-Prediction/
 * Experiment with SMOTE/ADASYN
 * Compare ANN with XGBoost and Random Forest
 * Perform explainability using SHAP/LIME
+
+## Demo
+
+<img width="479" height="394" alt="image" src="https://github.com/user-attachments/assets/ad0c5b1f-168e-4bd8-a593-67f5a141c9df" />
+
+## Author
+
+**Harish Alakuntla**
+
+Machine Learning | Deep Learning | Python
